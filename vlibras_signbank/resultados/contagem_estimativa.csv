@@ -1,0 +1,1362 @@
+classe,rodada1_treino,rodada1_teste,rodada2_treino,rodada2_teste,rodada3_treino,rodada3_teste
+Abacaxi,3,1,3,1,3,1
+Abanar,3,1,3,1,3,1
+Abandonar,3,1,3,1,3,1
+Abelha,3,1,3,1,3,1
+Abençoar,3,1,3,1,3,1
+Aborto,2,1,2,1,2,1
+Abraço,2,1,2,1,2,1
+Abrir a janela,2,1,2,1,2,1
+Abrir a porta,2,1,2,1,2,1
+Abóbora,2,1,2,1,2,1
+Acabar,4,1,4,1,4,1
+Academia,2,1,2,1,2,1
+Aceitar,3,1,3,1,3,1
+Acenar,2,1,2,1,2,1
+Acidente,3,1,3,1,3,1
+Acima,2,1,2,1,2,1
+Acompanhar,3,1,3,1,3,1
+Aconselhar,3,1,3,1,3,1
+Acontecer,4,1,4,1,4,1
+Acordar (alarme),3,1,3,1,3,1
+Acrescentar,3,1,3,1,3,1
+Adaptar,3,1,3,1,3,1
+Adiante,2,1,2,1,2,1
+Adiar,2,1,2,1,2,1
+Admitir,2,1,2,1,2,1
+Adquirir,2,1,2,1,2,1
+Adulto,3,1,3,1,3,1
+Advertir,2,1,2,1,2,1
+Afogar,2,1,2,1,2,1
+Agarrar,2,1,2,1,2,1
+Agasalho,2,1,2,1,2,1
+Agir (fazer),2,1,2,1,2,1
+Agitar,3,1,3,1,3,1
+Agora,3,1,3,1,3,1
+Agradável,2,1,2,1,2,1
+Agressivo,2,1,2,1,2,1
+Ainda,3,1,3,1,3,1
+Ajoelhar,2,1,2,1,2,1
+Ajudar,3,1,3,1,3,1
+Alarme,2,1,2,1,2,1
+Alce,3,1,3,1,3,1
+Alfinete,3,1,3,1,3,1
+Algo,2,1,2,1,2,1
+Alguns,3,1,3,1,3,1
+Alimentação,2,1,2,1,2,1
+Almofada,2,1,2,1,2,1
+Almoço,2,1,2,1,2,1
+Alto,5,1,5,1,5,1
+Altura,2,1,2,1,2,1
+Aluno do Segundo Ano do Ensino Médio,2,1,2,1,2,1
+Amanhã,3,1,3,1,3,1
+Amarelo,3,1,3,1,3,1
+Amargo,2,1,2,1,2,1
+Ambiente,2,1,2,1,2,1
+Ambos,2,1,2,1,2,1
+Amigo,4,1,4,1,4,1
+Amigável,2,1,2,1,2,1
+Analisar,2,1,2,1,2,1
+Andorinha,2,1,2,1,2,1
+Angustiado,2,1,2,1,2,1
+Animado,2,1,2,1,2,1
+Animal,3,1,3,1,3,1
+Animal mimado,2,1,2,1,2,1
+Aniversário,3,1,3,1,3,1
+Anjo,2,1,2,1,2,1
+Ano,3,1,3,1,3,1
+Antecipar,2,1,2,1,2,1
+Anteriormente,3,1,3,1,3,1
+Antes,3,1,3,1,3,1
+Anunciar,2,1,2,1,2,1
+Ao redor,2,1,2,1,2,1
+Apagar,3,1,3,1,3,1
+Apagar o quadro,2,1,2,1,2,1
+Apaixonar-se,2,1,2,1,2,1
+Aparelho auditivo,3,1,3,1,3,1
+Apito,2,1,2,1,2,1
+Aplauso,2,1,2,1,2,1
+Apoio,2,1,2,1,2,1
+Apontar para,2,1,2,1,2,1
+Aposto,2,1,2,1,2,1
+Aprender,3,1,3,1,3,1
+Aprovar,2,1,2,1,2,1
+Aqui,2,1,2,1,2,1
+Ar,3,1,3,1,3,1
+Aranha,3,1,3,1,3,1
+Argumentar,2,1,2,1,2,1
+Arma de fogo,2,1,2,1,2,1
+Armazenado,2,1,2,1,2,1
+Armário,2,1,2,1,2,1
+Arquivo,2,1,2,1,2,1
+Arrepios,2,1,2,1,2,1
+Arte,3,1,3,1,3,1
+Artigo,3,1,3,1,3,1
+Asno,2,1,2,1,2,1
+Aspirar,2,1,2,1,2,1
+Assalto,2,1,2,1,2,1
+Assim,3,1,3,1,3,1
+Assinatura,2,1,2,1,2,1
+Assistir,4,1,4,1,4,1
+Associação,5,1,5,1,5,1
+Assumir,3,1,3,1,3,1
+Atitude,2,1,2,1,2,1
+Atividade,3,1,3,1,3,1
+Ato de remar,2,1,2,1,2,1
+Através,1,1,2,0,1,1
+Atrás,2,1,2,1,2,1
+Até agora,2,1,2,1,2,1
+Atônito,3,1,3,1,3,1
+Audiência,3,1,3,1,3,1
+Aumentar,3,1,3,1,3,1
+Ausente,3,1,3,1,3,1
+Autoridade,2,1,2,1,2,1
+Avaliar,3,1,3,1,3,1
+Aviso,2,1,2,1,2,1
+Avião,3,1,3,1,3,1
+Avó,2,1,2,1,2,1
+Avô,2,1,2,1,2,1
+Azul,4,1,4,1,4,1
+Ação,2,1,2,1,2,1
+Açúcar,2,1,2,1,2,1
+Bagunçado,2,1,2,1,2,1
+Balanço,2,1,2,1,2,1
+Baleia,7,1,7,1,7,1
+Balão,3,1,3,1,3,1
+Banana,3,1,3,1,3,1
+Banheiro,3,1,3,1,3,1
+Banho,2,1,2,1,2,1
+Barato,3,1,3,1,3,1
+Barba,3,1,3,1,3,1
+Barbear,4,1,4,1,4,1
+Barco,3,1,3,1,3,1
+Barco a vela,2,1,2,1,2,1
+Barra (haste),2,1,2,1,2,1
+Barulho,3,1,3,1,3,1
+Basquetebol,2,1,2,1,2,1
+Batata,3,1,3,1,3,1
+Bater papo,3,1,3,1,3,1
+Bateria,2,1,2,1,2,1
+Batida (pancada),2,1,2,1,2,1
+Batida (ritmo),2,1,2,1,2,1
+Bebida,2,1,2,1,2,1
+Bebê,3,1,3,1,3,1
+Beijo,2,1,2,1,2,1
+Beisebol,2,1,2,1,2,1
+Bem,3,1,3,1,3,1
+Benefício,2,1,2,1,2,1
+Bermuda,2,1,2,1,2,1
+Biblioteca,3,1,3,1,3,1
+Bicicleta,3,1,3,1,3,1
+Bigode,3,1,3,1,3,1
+Bilhão,2,1,2,1,2,1
+Biologia,2,1,2,1,2,1
+Biquini,2,1,2,1,2,1
+Bisbilhotar,2,1,2,1,2,1
+Biscoito,3,1,3,1,3,1
+Bloquear,3,1,3,1,3,1
+Bobo,4,1,4,1,4,1
+Bocejar,3,1,3,1,3,1
+Bode,3,1,3,1,3,1
+Boi,3,1,3,1,3,1
+Bola,3,1,3,1,3,1
+Bolo,3,1,3,1,3,1
+Bolsa,3,1,3,1,3,1
+Bomba,2,1,2,1,2,1
+Bombeiro,3,1,3,1,3,1
+Bonito,3,1,3,1,3,1
+Borboleta,3,1,3,1,3,1
+Borracha,3,1,3,1,3,1
+Borrifador,2,1,2,1,2,1
+Bota,3,1,3,1,3,1
+Botão (broche),2,1,2,1,2,1
+Boxe (esporte),3,1,3,1,3,1
+Branco,4,1,4,1,4,1
+Breve,2,1,2,1,2,1
+Brigar (dar porrada),3,1,3,1,3,1
+Brilhar,3,1,3,1,3,1
+Brilho,2,1,2,1,2,1
+Brinco,3,1,3,1,3,1
+Broca,2,1,2,1,2,1
+Bronzeamento,2,1,2,1,2,1
+Buzina,2,1,2,1,2,1
+Básico,3,1,3,1,3,1
+Bêbado,2,1,2,1,2,1
+Búfalo,2,1,2,1,2,1
+Cabelo,3,1,3,1,3,1
+Cabeça,3,1,3,1,3,1
+Cabeça fria,2,1,2,1,2,1
+Cabeçudo,2,1,2,1,2,1
+Cada,3,1,3,1,3,1
+Cadeira de Balanço,2,1,2,1,2,1
+Cadeira de rodas,2,1,2,1,2,1
+Cafeteria,2,1,2,1,2,1
+Café,3,1,3,1,3,1
+Cair,3,1,3,1,3,1
+Caixa,3,1,3,1,3,1
+Caixa de som,2,1,2,1,2,1
+Calculadora,3,1,3,1,3,1
+Cale-se,2,1,2,1,2,1
+Calmo,2,1,2,1,2,1
+Caloroso,2,1,2,1,2,1
+Calouro,2,1,2,1,2,1
+Calça,3,1,3,1,3,1
+Cama,3,1,3,1,3,1
+Caminhada,2,1,2,1,2,1
+Campainha,3,1,3,1,3,1
+Campeão,3,1,3,1,3,1
+Cancelar,3,1,3,1,3,1
+Canguru,3,1,3,1,3,1
+Cansado,2,1,2,1,2,1
+Capacete,3,1,3,1,3,1
+Capital,3,1,3,1,3,1
+Capítulo,2,1,2,1,2,1
+Careca,3,1,3,1,3,1
+Carne,3,1,3,1,3,1
+Caro,3,1,3,1,3,1
+Carpinteiro,2,1,2,1,2,1
+Carrinho de mão,2,1,2,1,2,1
+Carro,3,1,3,1,3,1
+Carteira de bolso,2,1,2,1,2,1
+Cartão de Crédito,2,1,2,1,2,1
+Casa,3,1,3,1,3,1
+Casaco,3,1,3,1,3,1
+Casamento,3,1,3,1,3,1
+Católico,3,1,3,1,3,1
+Causa,2,1,2,1,2,1
+Cavalo,3,1,3,1,3,1
+Caxumba,3,1,3,1,3,1
+Caçando,2,1,2,1,2,1
+Cebola,4,1,4,1,4,1
+Cego,4,1,4,1,4,1
+Centro,5,1,5,1,5,1
+Cerca (barreira),2,1,2,1,2,1
+Cereal,2,1,2,1,2,1
+Certificar (atestar),2,1,2,1,2,1
+Cerveja,4,1,4,1,4,1
+Cesta (de feira),2,1,2,1,2,1
+Chamada por telefone,2,1,2,1,2,1
+Chance,2,1,2,1,2,1
+Chapéu,3,1,3,1,3,1
+Chave,3,1,3,1,3,1
+Chave de fenda,2,1,2,1,2,1
+Chefe,4,1,4,1,4,1
+Chegar,4,1,4,1,4,1
+Chegar a algum lugar,2,1,2,1,2,1
+Cheio,3,1,3,1,3,1
+Cheiro,2,1,2,1,2,1
+Chicote,2,1,2,1,2,1
+Chinelo de dedo,2,1,2,1,2,1
+Chique,3,1,3,1,3,1
+Chocolate,4,1,4,1,4,1
+Choro,2,1,2,1,2,1
+Chute,2,1,2,1,2,1
+Chuva,2,1,2,1,2,1
+Chuveiro,2,1,2,1,2,1
+Chá,3,1,3,1,3,1
+Chão,2,1,2,1,2,1
+Ciclo,2,1,2,1,2,1
+Cidade,4,1,4,1,4,1
+Cigarro,3,1,3,1,3,1
+Cintura,2,1,2,1,2,1
+Cinza (cor),3,1,3,1,3,1
+Cirurgia,2,1,2,1,2,1
+Citação,3,1,3,1,3,1
+Ciumento,2,1,2,1,2,1
+Ciência,3,1,3,1,3,1
+Claro,3,1,3,1,3,1
+Classe,2,1,2,1,2,1
+Clima,2,1,2,1,2,1
+Cobertor,2,1,2,1,2,1
+Coco,3,1,3,1,3,1
+Coelho,4,1,4,1,4,1
+Cola,3,1,3,1,3,1
+Colaborar,2,1,2,1,2,1
+Colapso,2,1,2,1,2,1
+Colar grau,2,1,2,1,2,1
+Coletar,2,1,2,1,2,1
+Colocar,4,1,4,1,4,1
+Colégio,2,1,2,1,2,1
+Com frequência,2,1,2,1,2,1
+Com licença,3,1,3,1,3,1
+Com medo,2,1,2,1,2,1
+Com sede,2,1,2,1,2,1
+Comemorar (celebrar),2,1,2,1,2,1
+Comer,4,1,4,1,4,1
+Comer com faca,2,1,2,1,2,1
+Comer à noite,2,1,2,1,2,1
+Começar,3,1,3,1,3,1
+Comissão,2,1,2,1,2,1
+Como,3,1,3,1,3,1
+Compaixão,2,1,2,1,2,1
+Comparar,3,1,3,1,3,1
+Comportamento (conduta),3,1,3,1,3,1
+Comprar,3,1,3,1,3,1
+Compreender,3,1,3,1,3,1
+Compromisso marcado,2,1,2,1,2,1
+Computador,4,1,4,1,4,1
+Computador portátil,2,1,2,1,2,1
+Comunicar,3,1,3,1,3,1
+Conceito,3,1,3,1,3,1
+Conclusão,2,1,2,1,2,1
+Concordar,3,1,3,1,3,1
+Condutor,2,1,2,1,2,1
+Conduzir,2,1,2,1,2,1
+Confortável,2,1,2,1,2,1
+Confrontar (enfrentar),2,1,2,1,2,1
+Confuso,2,1,2,1,2,1
+Congelar,1,1,1,1,2,0
+Conseguindo,2,1,2,1,2,1
+Consertar,2,1,2,1,2,1
+Constituição,2,1,2,1,2,1
+Construir,2,1,2,1,2,1
+Contagem,2,1,2,1,2,1
+Contato,3,1,3,1,3,1
+Continuar,2,1,2,1,2,1
+Contra,3,1,3,1,3,1
+Controle,2,1,2,1,2,1
+Conversar consigo mesmo,2,1,2,1,2,1
+Convocar,2,1,2,1,2,1
+Cor,3,1,3,1,3,1
+Corado,2,1,2,1,2,1
+Coração,4,1,4,1,4,1
+Corda,2,1,2,1,2,1
+Corda usada pra pular,2,1,2,1,2,1
+Cordão (colar),2,1,2,1,2,1
+Coroa,2,1,2,1,2,1
+Corpo,3,1,3,1,3,1
+Correr atrás,2,1,2,1,2,1
+Correspondente,2,1,2,1,2,1
+Correto,2,1,2,1,2,1
+Cortar,3,1,3,1,3,1
+Corte com tesoura,2,1,2,1,2,1
+Corte de Cabelo,2,1,2,1,2,1
+Costurar,3,1,3,1,3,1
+Cotovelo,2,1,2,1,2,1
+Creme dental,2,1,2,1,2,1
+Crescer,3,1,3,1,3,1
+Criança,2,1,2,1,3,0
+Criar,3,1,3,1,3,1
+Cristo,2,1,2,1,2,1
+Cronograma,2,1,2,1,2,1
+Cruel,2,1,2,1,2,1
+Cruz,3,1,3,1,3,1
+Cueca,3,1,3,1,3,1
+Cuidado,3,1,3,1,3,1
+Culpar,5,1,5,1,5,1
+Cultura,3,1,3,1,3,1
+Cumprimento,2,1,2,1,2,1
+Curioso,4,1,4,1,4,1
+Currículo,3,1,3,1,3,1
+Curva,2,1,2,1,2,1
+Cuspir,3,1,3,1,3,1
+Cálculo,2,1,2,1,2,1
+Cálice,2,1,2,1,2,1
+Câmera,2,1,2,1,2,1
+Céu,3,1,3,1,3,1
+Cílios,2,1,2,1,2,1
+Círculo,3,1,3,1,3,1
+Cócegas,2,1,2,1,2,1
+Cópia,2,1,2,1,2,1
+Dança,2,1,2,1,2,1
+Dar,3,1,3,1,3,1
+De cabeça baixa,2,1,2,1,2,1
+De novo,3,1,3,1,3,1
+De vez em quando,2,1,2,1,2,1
+Decidir,2,1,2,1,2,1
+Decolar,2,1,2,1,2,1
+Decorar (ornamentar),4,1,4,1,4,1
+Dedo,2,1,2,1,2,1
+Defender (proteger),3,1,3,1,3,1
+Deitar-se,2,1,2,1,2,1
+Deixar,4,1,4,1,4,1
+Delicioso,2,1,2,1,2,1
+Demitido,2,1,2,1,2,1
+Demitir,3,1,3,1,3,1
+Democracia,3,1,3,1,3,1
+Departamento,3,1,3,1,3,1
+Depender,2,1,2,1,2,1
+Depois (mais tarde),5,1,5,1,5,1
+Deprimir,2,1,2,1,2,1
+Depósito,2,1,2,1,2,1
+Derramar,2,1,2,1,2,1
+Desafio,3,1,3,1,3,1
+Desaparecido,2,1,2,1,2,1
+Desapontamento,2,1,2,1,2,1
+Desassistido,2,1,2,1,2,1
+Desatento,3,1,3,1,3,1
+Descobrir,3,1,3,1,3,1
+Desconectar,3,1,3,1,3,1
+Descuidado (irresponsável),2,1,2,1,2,1
+Desculpa,2,1,2,1,2,1
+Desejo,2,1,2,1,2,1
+Desenvolver,3,1,3,1,3,1
+Desgosto,2,1,2,1,2,1
+Desistir,3,1,3,1,3,1
+Desperdício,2,1,2,1,2,1
+Destruir,3,1,3,1,3,1
+Deteriorar,2,1,2,1,2,1
+Deus,3,1,3,1,3,1
+Devemos,2,1,2,1,2,1
+Dever de casa,2,1,2,1,2,1
+Devolver,2,1,2,1,2,1
+Dia,5,1,5,1,5,1
+Dicionário,4,1,4,1,4,1
+Difícil,3,1,3,1,3,1
+Diminuir,3,1,3,1,3,1
+Dinheiro,3,1,3,1,3,1
+Dinossauro,3,1,3,1,3,1
+Diploma,2,1,2,1,2,1
+Direcionar,2,1,2,1,2,1
+Direito,3,1,3,1,3,1
+Direto,3,1,3,1,3,1
+Dirigir,3,1,3,1,3,1
+Disciplina,3,1,3,1,3,1
+Discordar,2,1,2,1,2,1
+Discriminar,2,1,2,1,2,1
+Discutir (debater),3,1,3,1,3,1
+Disparar flecha,2,1,2,1,2,1
+Disponível,2,1,2,1,2,1
+Disputar,2,1,2,1,2,1
+Distribuir,2,1,2,1,2,1
+Diversão,2,1,2,1,2,1
+Dividir,3,1,3,1,3,1
+Divórcio,2,1,2,1,2,1
+Dizer,2,1,2,1,2,1
+Diálogo,2,1,2,1,2,1
+Doce,3,1,3,1,3,1
+Documento,3,1,3,1,3,1
+Doente,3,1,3,1,3,1
+Doloroso,2,1,2,1,2,1
+Dor de cabeça,2,1,2,1,2,1
+Dor de garganta,2,1,2,1,2,1
+Dor de ouvido,2,1,2,1,2,1
+Dormir,5,1,5,1,5,1
+Dormitório,2,1,2,1,2,1
+Drogado,2,1,2,1,2,1
+Duas semanas,2,1,2,1,2,1
+Duplicar,2,1,2,1,2,1
+Dólar,4,1,4,1,4,1
+Dúvida (incerteza),2,1,2,1,2,1
+Economizar dinheiro,2,1,2,1,2,1
+Econômico,2,1,2,1,2,1
+Educado,2,1,2,1,2,1
+Ego,2,1,2,1,2,1
+Elefante,4,1,4,1,4,1
+Elementar,2,1,2,1,2,1
+Elevador,4,1,4,1,4,1
+Elástico,2,1,2,1,2,1
+Elétrico,2,1,2,1,2,1
+Em branco,2,1,2,1,2,1
+Em cima,2,1,2,1,2,1
+Em dobro,2,1,2,1,2,1
+Em marcha (andar),2,1,2,1,2,1
+Em vez de,2,1,2,1,2,1
+Embaixo,3,1,3,1,3,1
+Embaraçar,2,1,2,1,2,1
+Emergência,2,1,2,1,2,1
+Emoção,2,1,2,1,2,1
+Empenho,2,1,2,1,2,1
+Emprego (trabalho),2,1,2,1,2,1
+Empresa,3,1,3,1,3,1
+Emprestar algo,2,1,2,1,2,1
+Encaracolado,2,1,2,1,2,1
+Encerrar,2,1,2,1,2,1
+Encontrar,3,1,3,1,3,1
+Encorajar,2,1,2,1,2,1
+Endereço,2,1,2,1,2,1
+Energia,3,1,3,1,3,1
+Enfatizar,2,1,2,1,2,1
+Enfermeira,4,1,4,1,4,1
+Enganar,6,1,6,1,6,1
+Engraçado,3,1,3,1,3,1
+Enquanto isso,2,1,2,1,2,1
+Ensaiar,2,1,2,1,2,1
+Ensinar,3,1,3,1,3,1
+Enterrar,2,1,2,1,2,1
+Entrar,4,1,4,1,4,1
+Entrar em algo,2,1,2,1,2,1
+Entre,2,1,2,1,2,1
+Entrevista,3,1,3,1,3,1
+Envergonhado,2,1,2,1,2,1
+Enviando mensagem de texto,2,1,2,1,2,1
+Enviar,2,1,2,1,2,1
+Enviar e-mail,2,1,2,1,2,1
+Enviar mensagem de texto,2,1,2,1,2,1
+Equipamento,2,1,2,1,2,1
+Equipe,2,1,2,1,2,1
+Ereto,2,1,2,1,2,1
+Erro,2,1,2,1,2,1
+Escada,2,1,2,1,2,1
+Escapar,2,1,2,1,2,1
+Escola,3,1,3,1,3,1
+Escolher,3,1,3,1,3,1
+Escorregadio,2,1,2,1,2,1
+Escova de cabelo,2,1,2,1,2,1
+Escova de dente,2,1,2,1,2,1
+Escovar os dentes,2,1,2,1,2,1
+Escravo,2,1,2,1,2,1
+Escrever,3,1,3,1,3,1
+Escurecer,2,1,2,1,2,1
+Escuro (sombrio),3,1,3,1,3,1
+Esforço,2,1,2,1,2,1
+Esfregar,2,1,2,1,2,1
+Espaguete,2,1,2,1,2,1
+Especialista,2,1,2,1,2,1
+Espelho,3,1,3,1,3,1
+Espera,2,1,2,1,2,1
+Esperança (torcer pra dar certo),2,1,2,1,2,1
+Esperar,3,1,3,1,3,1
+Espere,2,1,2,1,2,1
+Esperto (inteligente),3,1,3,1,3,1
+Espinha,2,1,2,1,2,1
+Espirrar,2,1,2,1,2,1
+Esquecer,3,1,3,1,3,1
+Esquerda,2,1,2,1,2,1
+Estado,3,1,3,1,3,1
+Estatística,2,1,2,1,2,1
+Estimular,3,1,3,1,3,1
+Estrangeiro,2,1,2,1,2,1
+Estranho,3,1,3,1,3,1
+Estrela,3,1,3,1,3,1
+Estrutura,3,1,3,1,3,1
+Estudo,2,1,2,1,2,1
+Estúpido,2,1,2,1,2,1
+Etc,2,1,2,1,2,1
+Eu amo você,2,1,2,1,2,1
+Eu vejo,2,1,2,1,2,1
+Evitar,3,1,3,1,3,1
+Exato,2,1,2,1,2,1
+"Exceder (passar, ir além)",2,1,2,1,2,1
+Excluir,2,1,2,1,2,1
+Executar,2,1,2,1,2,1
+Exercite-se,2,1,2,1,2,1
+Expandir,2,1,2,1,2,1
+Experimentar,2,1,2,1,2,1
+Experiência,3,1,3,1,3,1
+Explicar,3,1,3,1,3,1
+Explodir,3,1,3,1,3,1
+Expor,2,1,2,1,2,1
+Expressar,2,1,2,1,2,1
+Expressão facial,2,1,2,1,2,1
+Faca,3,1,3,1,3,1
+Facada,2,1,2,1,2,1
+Face (rosto),2,1,2,1,2,1
+Faculdade,4,1,4,1,4,1
+Falhar,3,1,3,1,3,1
+Falsidade,2,1,2,1,2,1
+Falso,2,1,2,1,2,1
+Faminto,2,1,2,1,2,1
+Família,3,1,3,1,3,1
+Fantasma,3,1,3,1,3,1
+Farol,2,1,2,1,2,1
+Fascinar,2,1,2,1,2,1
+Favorito,2,1,2,1,2,1
+Faz,2,1,2,1,2,1
+Fazenda,2,1,2,1,2,1
+Fechado,2,1,2,1,2,1
+Fechar,3,1,3,1,3,1
+Fechar a porta,2,1,2,1,2,1
+Federal,3,1,3,1,3,1
+Feijões,2,1,2,1,2,1
+Feio,3,1,3,1,3,1
+Feliz,3,1,3,1,3,1
+Ferver,2,1,2,1,2,1
+Festa,3,1,3,1,3,1
+Ficar com vergonha,2,1,2,1,2,1
+Ficha de registro,2,1,2,1,2,1
+Filha,2,1,2,1,2,1
+Filho,3,1,3,1,3,1
+Filmadora,2,1,2,1,2,1
+Filme,3,1,3,1,3,1
+Fim,4,1,4,1,4,1
+Fim de semana,2,1,2,1,2,1
+Financeiro,2,1,2,1,2,1
+Fino,2,1,2,1,2,1
+Firmeza,2,1,2,1,2,1
+Fita Cassete,2,1,2,1,2,1
+Flash da câmera,2,1,2,1,2,1
+Flauta,3,1,3,1,3,1
+Flexível,3,1,3,1,3,1
+Flor,3,1,3,1,3,1
+Fofinho,2,1,2,1,2,1
+Fofoca,2,1,2,1,2,1
+Fogo,3,1,3,1,3,1
+Foguete,3,1,3,1,3,1
+Fome,3,1,3,1,3,1
+Fonte de água,2,1,2,1,2,1
+Fora,3,1,3,1,3,1
+Formulário,2,1,2,1,2,1
+Forte,5,1,5,1,5,1
+Fortemente picante,2,1,2,1,2,1
+Força,2,1,2,1,2,1
+Fraco,3,1,3,1,3,1
+Freio,2,1,2,1,2,1
+Frio,4,1,4,1,4,1
+Fruta,2,1,2,1,2,1
+Funeral,2,1,2,1,2,1
+Função,3,1,3,1,3,1
+Futebol,4,1,4,1,4,1
+Futuro,3,1,3,1,3,1
+Física,6,1,6,1,6,1
+Galo,3,1,3,1,3,1
+Gangorra,2,1,2,1,2,1
+Garagem,2,1,2,1,2,1
+Garfo,3,1,3,1,3,1
+Garganta,3,1,3,1,3,1
+Garoto (menino),2,1,2,1,2,1
+Garrafa,2,1,2,1,2,1
+Garrafa de vinho,2,1,2,1,2,1
+Gastar,3,1,3,1,3,1
+Gato,4,1,4,1,4,1
+Gay,3,1,3,1,3,1
+Geração,3,1,3,1,3,1
+Geração atrás,2,1,2,1,2,1
+Giz,2,1,2,1,2,1
+Glória,3,1,3,1,3,1
+Golfe,3,1,3,1,3,1
+Gorila,3,1,3,1,3,1
+Gostar,3,1,3,1,3,1
+Gosto (sabor),2,1,2,1,2,1
+Gotejamento,2,1,2,1,2,1
+Governo,3,1,3,1,3,1
+Graduado,2,1,2,1,2,1
+Gramática,4,1,4,1,4,1
+Grande (enorme),3,1,3,1,3,1
+Grande sucesso,2,1,2,1,2,1
+Gravata,2,1,2,1,2,1
+Gravata (borboleta),2,1,2,1,2,1
+Gravação de Fita Casssete,2,1,2,1,2,1
+Gritar,4,1,4,1,4,1
+Grosseiro,2,1,2,1,2,1
+Grosso,2,1,2,1,2,1
+Grávida,2,1,2,1,2,1
+Guarda-chuva,3,1,3,1,3,1
+Guerra,3,1,3,1,3,1
+Guitarra,2,1,2,1,2,1
+Habilidade,2,1,2,1,2,1
+Helicóptero,3,1,3,1,3,1
+História,4,1,4,1,4,1
+Homem,3,1,3,1,3,1
+Honesto,2,1,2,1,2,1
+Honra,2,1,2,1,2,1
+Hora,4,1,4,1,4,1
+Hospital,3,1,3,1,3,1
+Humilde,2,1,2,1,2,1
+Ideia,4,1,4,1,4,1
+Ideia igual,2,1,2,1,2,1
+Identificar,2,1,2,1,2,1
+Identificar documento,2,1,2,1,2,1
+Idoso,3,1,3,1,3,1
+Ignorar,3,1,3,1,3,1
+Igreja,3,1,3,1,3,1
+Igual (similar),5,1,5,1,5,1
+Imagem,3,1,3,1,3,1
+Imaginar,4,1,4,1,4,1
+Imaturo,2,1,2,1,2,1
+Imoral,2,1,2,1,2,1
+Imparcial (neutro),2,1,2,1,2,1
+Implorar (pedir),2,1,2,1,2,1
+Importante,3,1,3,1,3,1
+Impossível,3,1,3,1,3,1
+Impressionar,2,1,2,1,2,1
+Impressões digitais,2,1,2,1,2,1
+Imprimir,3,1,3,1,3,1
+Impulso (Desejo),2,1,2,1,2,1
+Incômodo,2,1,2,1,2,1
+Independente,3,1,3,1,3,1
+Individual,2,1,2,1,2,1
+Indústria,2,1,2,1,2,1
+Inferno,2,1,2,1,2,1
+Inocente,4,1,4,1,4,1
+Inquieto (agitado),2,1,2,1,2,1
+Inseto,2,1,2,1,2,1
+Instituição,2,1,2,1,2,1
+Instituto,3,1,3,1,3,1
+Insulto,2,1,2,1,2,1
+Interação social,2,1,2,1,2,1
+Interessante (atraente),2,1,2,1,2,1
+Interesse,2,1,2,1,2,1
+Internet,5,1,5,1,5,1
+Interpretar,2,1,2,1,2,1
+Interruptor,2,1,2,1,2,1
+Intervalo (pra descanso),3,1,3,1,3,1
+Investir,2,1,2,1,2,1
+Ir,3,1,3,1,3,1
+Ir embora (partir),3,1,3,1,3,1
+Ir pra casa,2,1,2,1,2,1
+Irmã,3,1,3,1,3,1
+Isolado,2,1,2,1,2,1
+Jacaré,3,1,3,1,3,1
+Janela,3,1,3,1,3,1
+Jantar (banquete),2,1,2,1,2,1
+Jardim de infância,2,1,2,1,2,1
+Jarro,2,1,2,1,2,1
+Jejum (abstinência),3,1,3,1,3,1
+Joalheria,2,1,2,1,2,1
+Jogar,2,1,2,1,2,1
+Jogar basquetebol,2,1,2,1,2,1
+Jogar futebol,2,1,2,1,2,1
+Jogo,2,1,2,1,2,1
+Jogo de damas,2,1,2,1,2,1
+Jovem,3,1,3,1,3,1
+Judeu,2,1,2,1,2,1
+Juiz,2,1,2,1,2,1
+Juntos,2,1,2,1,2,1
+Lado,3,1,3,1,3,1
+Lagarta,2,1,2,1,2,1
+Lagarto,2,1,2,1,2,1
+Lançar,2,1,2,1,2,1
+Laranja,2,1,2,1,2,1
+Lavar,3,1,3,1,3,1
+Lavar as mãos,2,1,2,1,2,1
+Lavar o rosto,2,1,2,1,2,1
+Lavar prato,2,1,2,1,2,1
+Legenda,4,1,4,1,4,1
+Legislatura,2,1,2,1,2,1
+Leite,3,1,3,1,3,1
+Leitura,2,1,2,1,2,1
+Leitura labial,2,1,2,1,2,1
+Lembrar (ter em mente),3,1,3,1,3,1
+Lembre-se,2,1,2,1,2,1
+Lento,2,1,2,1,2,1
+Leste,3,1,3,1,3,1
+Letra A,2,1,2,1,2,1
+Letra B,2,1,2,1,2,1
+Letra D,2,1,2,1,2,1
+Letra E,2,1,2,1,2,1
+Letra F,2,1,2,1,2,1
+Letra G,2,1,2,1,2,1
+Letra H,2,1,2,1,2,1
+Letra I,2,1,2,1,2,1
+Letra J,2,1,2,1,2,1
+Letra K,2,1,2,1,2,1
+Letra L,2,1,2,1,2,1
+Letra M,2,1,2,1,2,1
+Letra N,2,1,2,1,2,1
+Letra P,2,1,2,1,2,1
+Letra Q,2,1,2,1,2,1
+Letra R,2,1,2,1,2,1
+Letra S,3,1,3,1,3,1
+Letra T,2,1,2,1,2,1
+Letra U,2,1,2,1,2,1
+Letra V,2,1,2,1,2,1
+Letra W,2,1,2,1,2,1
+Letra X,2,1,2,1,2,1
+Letra Y,2,1,2,1,2,1
+Letra Z,2,1,2,1,2,1
+Levar,3,1,3,1,3,1
+Leve,3,1,3,1,3,1
+Leão,4,1,4,1,4,1
+Licença,2,1,2,1,2,1
+Ligar,2,1,2,1,2,1
+Ligar algo,2,1,2,1,2,1
+Limite,3,1,3,1,3,1
+Linha,2,1,2,1,2,1
+Liso (sem dinheiro),2,1,2,1,2,1
+Lista,2,1,2,1,2,1
+Livra-se,2,1,2,1,2,1
+Livrar-se de,2,1,2,1,2,1
+Livre,2,1,2,1,2,1
+Livro,3,1,3,1,3,1
+Lobo,3,1,3,1,3,1
+Local,2,1,2,1,2,1
+Loiro,2,1,2,1,2,1
+Longe,3,1,3,1,3,1
+Longo,3,1,3,1,3,1
+Lotado,2,1,2,1,2,1
+Louco,3,1,3,1,3,1
+Lua,3,1,3,1,3,1
+Lugar,2,1,2,1,2,1
+Luta,2,1,2,1,2,1
+Luvas,2,1,2,1,2,1
+Luz,2,1,2,1,2,1
+Luz do sol,2,1,2,1,2,1
+Lábia,2,1,2,1,2,1
+Lápis,3,1,3,1,3,1
+Lésbica,3,1,3,1,3,1
+Língua (idioma),3,1,3,1,3,1
+Macaco,3,1,3,1,3,1
+Machucar,2,1,2,1,2,1
+Macio,4,1,4,1,4,1
+Maconha,3,1,3,1,3,1
+Madeira,3,1,3,1,3,1
+Magia,2,1,2,1,2,1
+Maior,3,1,3,1,3,1
+Maioria,3,1,3,1,3,1
+Mais,6,1,6,1,6,1
+Mais ainda,2,1,2,1,2,1
+Mais antigo,2,1,2,1,2,1
+Mais do que,2,1,2,1,2,1
+Mais ou menos,2,1,2,1,2,1
+Mal entendido,2,1,2,1,2,1
+Mala de Viagem,2,1,2,1,2,1
+Mamilos,2,1,2,1,2,1
+Mandíbula,2,1,2,1,2,1
+Manga curta (de camisa),2,1,2,1,2,1
+Manhã,4,1,4,1,4,1
+Manteiga,3,1,3,1,3,1
+Manter (guardar),2,1,2,1,2,1
+Mar (oceano),4,1,4,1,4,1
+Maravilhado,2,1,2,1,2,1
+Marrom,3,1,3,1,3,1
+Martelo,2,1,2,1,2,1
+Mas,4,1,4,1,4,1
+Mastigar,2,1,2,1,2,1
+Matar,4,1,4,1,4,1
+Matemática,4,1,4,1,4,1
+Material,2,1,2,1,2,1
+Mau cheiro,2,1,2,1,2,1
+Maçã (rosto),3,1,3,1,3,1
+Medicamento,2,1,2,1,2,1
+Medicina,2,1,2,1,2,1
+Meia-noite,2,1,2,1,2,1
+Meias,2,1,2,1,2,1
+Meio,3,1,3,1,3,1
+Meio-dia,3,1,3,1,3,1
+Melhor,4,1,4,1,4,1
+Melhor amigo,2,1,2,1,2,1
+Melhorar um pouco mais,2,1,2,1,2,1
+Melância,4,1,4,1,4,1
+Memorizar,3,1,3,1,3,1
+Menina,2,1,2,1,2,1
+Menor,2,1,2,1,2,1
+Menos,2,1,2,1,2,1
+Menstruar,6,1,6,1,6,1
+Mergulho,2,1,2,1,2,1
+Mesma idade,2,1,2,1,2,1
+Mesmo tempo,2,1,2,1,2,1
+Metal,2,1,2,1,2,1
+Metrô,5,1,5,1,5,1
+Microfone,2,1,2,1,2,1
+Mil,3,1,3,1,3,1
+Milho,3,1,3,1,3,1
+Milhão,3,1,3,1,3,1
+Minuto,3,1,3,1,3,1
+Misturar,3,1,3,1,3,1
+Mochila,3,1,3,1,3,1
+Moeda,4,1,4,1,4,1
+Molhado,2,1,2,1,2,1
+Montanha,3,1,3,1,3,1
+Moral,2,1,2,1,2,1
+Morango,4,1,4,1,4,1
+Morar junto,2,1,2,1,2,1
+Mordida (picada),2,1,2,1,2,1
+Morrer (falecer),3,1,3,1,3,1
+Motivar,3,1,3,1,3,1
+Motivo,3,1,3,1,3,1
+Motocicleta,2,1,2,1,2,1
+Motor,3,1,3,1,3,1
+Movimento,2,1,2,1,2,1
+Mudar,4,1,4,1,4,1
+Muito,3,1,3,1,3,1
+Muito rápido,2,1,2,1,2,1
+Muito tempo atrás,2,1,2,1,2,1
+Mulher,3,1,3,1,3,1
+Mundo,3,1,3,1,3,1
+Museu,3,1,3,1,3,1
+Máquina,2,1,2,1,2,1
+Máquina de lavar,2,1,2,1,2,1
+Máscara,3,1,3,1,3,1
+Máximo,3,1,3,1,3,1
+Mãe,8,1,8,1,8,1
+Mãos,2,1,2,1,2,1
+Médico (doutor),4,1,4,1,4,1
+Música,3,1,3,1,3,1
+Nada,6,1,6,1,6,1
+Nadar,3,1,3,1,3,1
+Namorar,3,1,3,1,3,1
+Nariz,3,1,3,1,3,1
+Nariz escorrendo,2,1,2,1,2,1
+Nascer,3,1,3,1,3,1
+Nascer do sol,2,1,2,1,2,1
+Natal,3,1,3,1,3,1
+Nativo,2,1,2,1,2,1
+Necessário,2,1,2,1,2,1
+Negativo,4,1,4,1,4,1
+Negligenciar,2,1,2,1,2,1
+Negligente,3,1,3,1,3,1
+Nervoso,4,1,4,1,4,1
+Noite,4,1,4,1,4,1
+Nome,3,1,3,1,3,1
+Nomear,2,1,2,1,2,1
+Norte,3,1,3,1,3,1
+Nove,4,1,4,1,4,1
+Novo,3,1,3,1,3,1
+Nu,4,1,4,1,4,1
+Nunca,4,1,4,1,4,1
+Nuvem de chuva,2,1,2,1,2,1
+Não,5,1,5,1,5,1
+Não poder,2,1,2,1,2,1
+Não é problema meu,2,1,2,1,2,1
+Número,2,1,2,1,2,1
+O dia todo,2,1,2,1,2,1
+Obeso,2,1,2,1,2,1
+Objetivo,3,1,3,1,3,1
+Obrigado,2,1,2,1,2,1
+Obrigação,2,1,2,1,2,1
+Obscuro,2,1,2,1,2,1
+Observar,2,1,2,1,2,1
+Ocupado,3,1,3,1,3,1
+Oeste,3,1,3,1,3,1
+Oficina,5,1,5,1,5,1
+Oi,4,1,4,1,4,1
+Olho,2,1,2,1,2,1
+Onde,4,1,4,1,4,1
+Ondulação,2,1,2,1,2,1
+Ontem,3,1,3,1,3,1
+Opinião,4,1,4,1,4,1
+Opção,2,1,2,1,2,1
+Orar,2,1,2,1,2,1
+Organização,2,1,2,1,2,1
+Orgulhoso,2,1,2,1,2,1
+Orientar,2,1,2,1,2,1
+Osso,2,1,2,1,2,1
+Outro,3,1,3,1,3,1
+Ouvir,4,1,4,1,4,1
+Ovelha,5,1,5,1,5,1
+Paciente (conformado),3,1,3,1,3,1
+Pagamento,2,1,2,1,2,1
+Pagar,3,1,3,1,3,1
+Pai,6,1,6,1,6,1
+Paixão,2,1,2,1,2,1
+Palestra,2,1,2,1,2,1
+Palmada,2,1,2,1,2,1
+Papel,3,1,3,1,3,1
+Para baixo,2,1,2,1,2,1
+Para sempre,2,1,2,1,2,1
+Parabéns,2,1,2,1,2,1
+Paralelo,2,1,2,1,2,1
+Paranóia,2,1,2,1,2,1
+Parar,4,1,4,1,4,1
+Parecer,3,1,3,1,3,1
+Parede,3,1,3,1,3,1
+Parentesco,2,1,2,1,2,1
+Passado,3,1,3,1,3,1
+Passar,3,1,3,1,3,1
+Passeio,2,1,2,1,2,1
+Passo,2,1,2,1,2,1
+Patins,3,1,3,1,3,1
+Pato,4,1,4,1,4,1
+País,3,1,3,1,3,1
+Pedir,3,1,3,1,3,1
+Pedir algo emprestado,2,1,2,1,2,1
+Pegar,3,1,3,1,3,1
+Peixe,4,1,4,1,4,1
+Pele,2,1,2,1,2,1
+Pente,3,1,3,1,3,1
+Pequeno,3,1,3,1,3,1
+Perceber,4,1,4,1,4,1
+Percurso,2,1,2,1,2,1
+Perder a competição,2,1,2,1,2,1
+Perder peso,2,1,2,1,2,1
+Perfeito,3,1,3,1,3,1
+Perfume,4,1,4,1,4,1
+Perigo,3,1,3,1,3,1
+Permitir,2,1,2,1,2,1
+Perspectiva,3,1,3,1,3,1
+Pertencer,2,1,2,1,2,1
+Perto,6,1,6,1,6,1
+Período,3,1,3,1,3,1
+Período de tempo,2,1,2,1,2,1
+Pesado,3,1,3,1,3,1
+Peso leve,2,1,2,1,2,1
+Pesquisar,3,1,3,1,3,1
+Pessoa,5,1,5,1,5,1
+Pessoa doente,2,1,2,1,2,1
+Pessoa encantadora,2,1,2,1,2,1
+Pessoa famosa,2,1,2,1,2,1
+Pessoa malvada,2,1,2,1,2,1
+Piano,3,1,3,1,3,1
+Picante,2,1,2,1,2,1
+Piedade,2,1,2,1,2,1
+Piedoso,2,1,2,1,2,1
+Pintura,2,1,2,1,2,1
+Pior,3,1,3,1,3,1
+Pipoca,3,1,3,1,3,1
+Pirata,2,1,2,1,2,1
+Piscar os olhos,2,1,2,1,2,1
+Pizza,3,1,3,1,3,1
+Plástico,3,1,3,1,3,1
+Pobre,3,1,3,1,3,1
+Podar árvore,2,1,2,1,2,1
+Poder,4,1,4,1,4,1
+Poderoso,2,1,2,1,2,1
+Poema,2,1,2,1,2,1
+Poesia,2,1,3,0,2,1
+Polegar,2,1,2,1,2,1
+Policial,2,1,2,1,2,1
+Política,3,1,3,1,3,1
+Ponta pé,2,1,2,1,2,1
+Ponte,3,1,3,1,3,1
+Por favor,3,1,3,1,3,1
+Por que,3,1,3,1,3,1
+Porcentagem,3,1,3,1,3,1
+Porco,6,1,6,1,6,1
+Porta Corrediça,2,1,2,1,2,1
+Portanto,2,1,2,1,2,1
+Portão,2,1,2,1,2,1
+Pouco,4,1,4,1,4,1
+Praia,2,1,2,1,2,1
+Prata,2,1,2,1,2,1
+Predizer,2,1,2,1,2,1
+Preencher,2,1,2,1,2,1
+Pregar a palavra,2,1,2,1,2,1
+Preguiçoso,2,1,2,1,2,1
+Preocupação,2,1,2,1,2,1
+Presente,4,1,4,1,4,1
+Presidente,4,1,4,1,4,1
+Preso,3,1,3,1,3,1
+Pressa,2,1,2,1,2,1
+Pressão,2,1,2,1,2,1
+Prestar atenção,3,1,3,1,3,1
+Preto,4,1,4,1,4,1
+Preço,2,1,2,1,2,1
+Prima,2,1,2,1,2,1
+Primo,3,1,3,1,3,1
+Princesa,2,1,2,1,2,1
+Principal,3,1,3,1,3,1
+Prioridade,3,1,3,1,3,1
+Problema,3,1,3,1,3,1
+Procurar por,2,1,2,1,2,1
+Profissão,2,1,2,1,2,1
+Profundo,3,1,3,1,3,1
+Programa,3,1,3,1,3,1
+Progresso,2,1,2,1,2,1
+Proibir (vetar),3,1,3,1,3,1
+Projeto,4,1,4,1,4,1
+Promessa,2,1,2,1,2,1
+Pronome,2,1,2,1,2,1
+Pronto,3,1,3,1,3,1
+Prosseguir,2,1,2,1,2,1
+Protestante,2,1,2,1,2,1
+Protesto,2,1,2,1,2,1
+Provar,3,1,3,1,3,1
+Prática,2,1,2,1,2,1
+Prédio,2,1,2,1,2,1
+Príncipe,2,1,2,1,2,1
+Próprio lugar,2,1,2,1,2,1
+Próximo,2,1,2,1,2,1
+Psicologia,3,1,3,1,3,1
+Psiquiatra,2,1,2,1,2,1
+Pulmões,2,1,2,1,2,1
+Pulo,2,1,2,1,2,1
+Pulsar,3,1,3,1,3,1
+Pulseira,3,1,3,1,3,1
+Páscoa,3,1,3,1,3,1
+Pássaro,3,1,3,1,3,1
+Pão,4,1,4,1,4,1
+Pé,2,1,2,1,2,1
+Péssimo,2,1,2,1,2,1
+Pênis,4,1,4,1,4,1
+Pêssego,3,1,3,1,3,1
+Pôr do sol,3,1,3,1,3,1
+Pôr o anel,2,1,2,1,2,1
+Quadrado,3,1,3,1,3,1
+Qual,4,1,4,1,4,1
+Qualquer,3,1,3,1,3,1
+Quando,2,1,2,1,2,1
+Quantos,2,1,2,1,2,1
+Quarta-feira,3,1,3,1,3,1
+Quarto de dormir,2,1,2,1,2,1
+Que,2,1,2,1,2,1
+Quebrar,3,1,3,1,3,1
+Queda de energia,2,1,2,1,2,1
+Queixo,3,1,3,1,3,1
+Quem,2,1,2,1,2,1
+Quente,3,1,3,1,3,1
+Quer,2,1,2,1,2,1
+Quinta-feira,2,1,2,1,2,1
+Química,3,1,3,1,3,1
+Rainha,2,1,2,1,2,1
+Ranzinza,2,1,2,1,2,1
+Raposa,2,1,2,1,2,1
+Raspar,2,1,2,1,2,1
+Rato,4,1,4,1,4,1
+Razão,3,1,3,1,3,1
+Real,2,1,2,1,2,1
+Reciclar,2,1,2,1,2,1
+Reclamação,2,1,2,1,2,1
+Recuperar,2,1,2,1,2,1
+Recusar,2,1,2,1,2,1
+Rede,2,1,2,1,2,1
+Regata (camisa),2,1,2,1,2,1
+Regular,2,1,2,1,2,1
+Rei,3,1,3,1,3,1
+Rejeitar,2,1,2,1,2,1
+Relativo,2,1,2,1,2,1
+Relatório,3,1,3,1,3,1
+Relação,2,1,2,1,2,1
+Religião,3,1,3,1,3,1
+Relâmpago,2,1,2,1,2,1
+Remover,2,1,2,1,2,1
+Reprovado,2,1,2,1,2,1
+Resistente,2,1,2,1,2,1
+Respeito,4,1,4,1,4,1
+Respirar,3,1,3,1,3,1
+Responsabilidade,2,1,2,1,2,1
+Resposta,2,1,2,1,2,1
+Restaurante,2,1,2,1,2,1
+Resultado,2,1,2,1,2,1
+Resumir,3,1,3,1,3,1
+Retardado Mental,2,1,2,1,2,1
+Retorno,2,1,2,1,2,1
+Reunião,5,1,5,1,5,1
+Revista,3,1,3,1,3,1
+Revisão,3,1,3,1,3,1
+Rezar,3,1,3,1,3,1
+Rico,4,1,4,1,4,1
+Rigoroso,2,1,2,1,2,1
+Rir (gargalhar),3,1,3,1,3,1
+Risadinha,2,1,2,1,2,1
+Roda,2,1,2,1,2,1
+Rodovia,2,1,2,1,2,1
+Rosa,4,1,4,1,4,1
+Rosquinha (de massa frita),2,1,2,1,2,1
+Roubar,3,1,3,1,3,1
+Roxo,3,1,3,1,3,1
+Ruim,3,1,3,1,3,1
+Rumo (direção),2,1,2,1,2,1
+Ruído,2,1,2,1,2,1
+Rápido,4,1,4,1,4,1
+Rã (sapo),3,1,3,1,3,1
+Saber,4,1,4,1,4,1
+Sabão,2,1,2,1,2,1
+Saciado,2,1,2,1,2,1
+Saco de lixo,2,1,2,1,2,1
+Sacudir,2,1,2,1,2,1
+Saia,2,1,2,1,2,1
+Sair,3,1,3,1,3,1
+Sal comum,2,1,2,1,2,1
+Salada,3,1,3,1,3,1
+Salsicha,2,1,2,1,2,1
+Salto pra frente,2,1,2,1,2,1
+Salvar,6,1,6,1,6,1
+Sanduíche,3,1,3,1,3,1
+Sangue,2,1,2,1,2,1
+Sapato,4,1,4,1,4,1
+Sarampo,2,1,2,1,2,1
+Sarcasmo,2,1,2,1,2,1
+Sarda,2,1,2,1,2,1
+Satisfação Pessoal,2,1,2,1,2,1
+Se,3,1,3,1,3,1
+Se afaste,2,1,2,1,2,1
+Se casar,2,1,2,1,2,1
+Se foi (já era),2,1,2,1,2,1
+Se gabar,2,1,2,1,2,1
+Seco (árido),2,1,2,1,2,1
+Secretária,3,1,3,1,3,1
+Secretário,2,1,2,1,2,1
+Segredo,4,1,4,1,4,1
+Seguir,3,1,3,1,3,1
+Segunda vez,3,1,3,1,3,1
+Segunda-feira,3,1,3,1,3,1
+Seguro,3,1,3,1,3,1
+Seios,2,1,2,1,2,1
+Selo,2,1,2,1,2,1
+Sem Problemas,2,1,2,1,2,1
+Sem emoção,2,1,2,1,2,1
+Sementes de plantas,2,1,2,1,2,1
+Semestre,4,1,4,1,4,1
+Sempre,3,1,3,1,3,1
+Semáforo,2,1,2,1,2,1
+Sensível (delicado),3,1,3,1,3,1
+Sentar,3,1,3,1,3,1
+Sentença,2,1,2,1,2,1
+Sentir,4,1,4,1,4,1
+Separado,2,1,2,1,2,1
+Serpente,2,1,2,1,2,1
+Serviço,2,1,2,1,2,1
+Sexo,3,1,3,1,3,1
+Sexta-feira,3,1,3,1,3,1
+Show,3,1,3,1,3,1
+Sim,4,1,4,1,4,1
+Simples,3,1,3,1,3,1
+Simplificar,2,1,2,1,2,1
+Sino,3,1,3,1,3,1
+Sistema,3,1,3,1,3,1
+Situação,2,1,2,1,2,1
+Sobrancelha,2,1,2,1,2,1
+Sobre,2,1,2,1,2,1
+Sobrinha,2,1,2,1,2,1
+Sobrinho,3,1,3,1,3,1
+Sociedade,2,1,2,1,2,1
+Soco,3,1,3,1,3,1
+Sofrer,3,1,3,1,3,1
+Sol,4,1,4,1,4,1
+Soletrar,3,1,3,1,3,1
+Solicitar,2,1,3,0,2,1
+Solicitação,2,1,2,1,2,1
+Soltar gases,2,1,2,1,2,1
+Solteiro,4,1,4,1,4,1
+Solto,2,1,2,1,2,1
+Sonho,2,1,2,1,2,1
+Sopa,3,1,3,1,3,1
+Sorriso,2,1,2,1,2,1
+Sorteio,3,1,3,1,3,1
+Sortudo,2,1,2,1,2,1
+Sorvete,4,1,4,1,4,1
+Sozinho,4,1,4,1,4,1
+Suave,3,1,3,1,3,1
+Substituir,3,1,3,1,3,1
+Subtrair,2,1,2,1,2,1
+Sucesso,3,1,3,1,3,1
+Suficiente,2,1,2,1,2,1
+Sugerir,2,1,2,1,2,1
+Sujo,3,1,3,1,3,1
+Sul,3,1,3,1,3,1
+Sumir,4,1,4,1,4,1
+Suor,2,1,2,1,2,1
+Superficie lisa,2,1,2,1,2,1
+Superfície plana,2,1,2,1,2,1
+Superior,3,1,3,1,3,1
+Supervisionar,2,1,2,1,2,1
+Surdo,3,1,3,1,3,1
+Surgir,2,1,2,1,2,1
+Surpresa,2,1,2,1,2,1
+Suspeito,2,1,2,1,2,1
+Suspender (interrromper),2,1,2,1,2,1
+Sussurro,2,1,2,1,2,1
+Sutiã,3,1,3,1,3,1
+Sábado,3,1,3,1,3,1
+Sério,3,1,3,1,3,1
+Símbolo,3,1,3,1,3,1
+Tabela,3,1,3,1,3,1
+Talvez,2,1,2,1,2,1
+Tamanho,2,1,2,1,2,1
+Também,4,1,4,1,4,1
+Tarde,3,1,3,1,3,1
+Tatuagem,4,1,4,1,4,1
+Teimoso,3,1,3,1,3,1
+Telefone,3,1,3,1,3,1
+Telescópio,3,1,3,1,3,1
+Temperatura,3,1,3,1,3,1
+Tempo,4,1,4,1,4,1
+Tentado,2,1,2,1,2,1
+Teoria,4,1,4,1,4,1
+Ter,3,1,3,1,3,1
+Terminar,2,1,2,1,2,1
+Termômetro,3,1,3,1,3,1
+Terra (planeta),2,1,2,1,2,1
+Terça-feira,2,1,3,0,2,1
+Testa,2,1,2,1,2,1
+Teste,2,1,2,1,2,1
+Tia,2,1,2,1,2,1
+Tigre,3,1,3,1,3,1
+Tintura,2,1,2,1,2,1
+Tio,4,1,4,1,4,1
+Tipo (espécie),2,1,2,1,2,1
+Tirar foto,2,1,2,1,2,1
+Tirar proveito,2,1,2,1,2,1
+Toalha,3,1,3,1,3,1
+Tocar o coração,2,1,2,1,2,1
+Toda quarta-feira,2,1,2,1,2,1
+Toda quinta-feira,2,1,2,1,2,1
+Toda segunda-feira,2,1,2,1,2,1
+Toda semana,2,1,2,1,2,1
+Toda sexta-feira,2,1,2,1,2,1
+Toda terça-feira,2,1,2,1,2,1
+Todo Sábado,2,1,2,1,2,1
+Todo dia,3,1,3,1,3,1
+Todos,3,1,3,1,3,1
+Tomada,3,1,3,1,3,1
+Tomar conta de,2,1,2,1,2,1
+Tomar notas,2,1,2,1,2,1
+Tomate,3,1,3,1,3,1
+Tonto (confuso),2,1,2,1,2,1
+Topo,2,1,2,1,2,1
+Toque,2,1,2,1,2,1
+Tornar-se gordo,2,1,2,1,2,1
+Torneio,2,1,2,1,2,1
+Torrada,2,1,2,1,2,1
+Tosse,3,1,3,1,3,1
+Total,3,1,3,1,3,1
+Trabalho Social,2,1,2,1,2,1
+Tradição,3,1,3,1,3,1
+Traduzir,2,1,2,1,2,1
+Transbordar,2,1,2,1,2,1
+Trapacear,2,1,2,1,2,1
+Travesseiro,2,1,2,1,2,1
+Trazer,3,1,3,1,3,1
+Trem,4,1,4,1,4,1
+Tribunal,3,1,3,1,3,1
+Triste,3,1,3,1,3,1
+Troféu,3,1,3,1,3,1
+Tromba,2,1,2,1,2,1
+Tubo,2,1,2,1,2,1
+Tudo certo,2,1,2,1,2,1
+Técnico,3,1,3,1,3,1
+Tímido,4,1,4,1,4,1
+Título,2,1,2,1,2,1
+Tórax,2,1,2,1,2,1
+Um,3,1,3,1,3,1
+Uma semana,2,1,2,1,2,1
+Uma vez,2,1,2,1,2,1
+Universidade,3,1,3,1,3,1
+Universo,2,1,2,1,2,1
+Urgente,4,1,4,1,4,1
+Urso,3,1,3,1,3,1
+Use língua de sinais,2,1,2,1,2,1
+Uso,2,1,2,1,2,1
+Uvas,2,1,2,1,2,1
+Vaca,3,1,3,1,3,1
+Vagina,3,1,3,1,3,1
+Vai,4,1,4,1,4,1
+Vamos,3,1,3,1,3,1
+Vapor,2,1,2,1,2,1
+Vassoura,2,1,2,1,2,1
+Vazio,4,1,4,1,4,1
+Veado,4,1,4,1,4,1
+Veia,2,1,2,1,2,1
+Vela,4,1,4,1,4,1
+Vencer,3,1,3,1,3,1
+Vender,3,1,3,1,3,1
+Venha,2,1,2,1,2,1
+Vento,3,1,3,1,3,1
+Ver,4,1,4,1,4,1
+Verde,6,1,6,1,6,1
+Vergonha,3,1,3,1,3,1
+Verificar,2,1,2,1,2,1
+Verme,3,1,3,1,3,1
+Vermelho,3,1,3,1,3,1
+Verão,2,1,2,1,2,1
+Vestido,3,1,3,1,3,1
+Veto,2,1,2,1,2,1
+Vice-presidente,2,1,2,1,2,1
+Vingança,2,1,2,1,2,1
+Vinho,3,1,3,1,3,1
+Vinte,2,1,2,1,2,1
+Vinte e dois,2,1,2,1,2,1
+Vinte e um,2,1,2,1,2,1
+Violino,3,1,3,1,3,1
+Virar a página,2,1,2,1,2,1
+Virgem,3,1,3,1,3,1
+Virgem Maria,2,1,2,1,2,1
+Visita,2,1,2,1,2,1
+Visualizar,2,1,2,1,2,1
+Viver,3,1,3,1,3,1
+Voar de avião,2,1,2,1,2,1
+Vocabulário,3,1,3,1,3,1
+Volta,2,1,2,1,2,1
+Volêi,3,1,3,1,3,1
+Vomitar,3,1,3,1,3,1
+Voto,2,1,2,1,2,1
+Voz,4,1,4,1,4,1
+Xampu,3,1,3,1,3,1
+Xingar,3,1,3,1,3,1
+Zero,3,1,3,1,3,1
+Zíper,4,1,4,1,4,1
+e-mail,3,1,3,1,3,1
+À noite toda,2,1,2,1,2,1
+À tarde toda,2,1,2,1,2,1
+Às vezes,2,1,2,1,2,1
+Água,3,1,3,1,3,1
+Água congelada,2,1,2,1,2,1
+Álcool,3,1,3,1,3,1
+Área,3,1,3,1,3,1
+Árvore,3,1,3,1,3,1
+Óculos,3,1,3,1,3,1
+Ódio,3,1,3,1,3,1
+Óleo,3,1,3,1,3,1
+Última,2,1,2,1,2,1
+Última semana,2,1,2,1,2,1

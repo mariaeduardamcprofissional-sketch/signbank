@@ -1,0 +1,8 @@
+# Versoes testadas (Python 3.12): tensorflow 2.21, numpy 2.4, scikit-learn 1.8, numba 0.68, scipy 1.17
+numpy>=1.26
+scikit-learn>=1.4
+tensorflow>=2.16
+# so para o DTW (knn_dtw_topk.py, diagnostico_dtw.py) e comparar_palavra.py:
+numba>=0.59
+scipy>=1.11
+matplotlib>=3.8
